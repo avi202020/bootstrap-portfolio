@@ -106,3 +106,38 @@ footer {
 .p-3 {
   padding: 10% !important;
 }
+
+/* .row > div{
+   margin: 10px;
+}
+
+.card {
+   flex-direction: row;
+   align-items: center;
+}
+*/
+
+.img1 {
+  max-width: 500px;
+ } 
+
+.img2 {
+ max-width: 300px;
+} 
+
+.ml-2 {
+  margin-left: 10% !important;
+}
+
+.ml-3 {
+  margin-left: 10% !important;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.cardContainerS {
+  padding: 0px;
+}
